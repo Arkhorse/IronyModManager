@@ -1,8 +1,8 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: Feature Request
+name: Feature Request
+about: Use this template to suggest new features
+title: "[Feature Name]"
+labels: Feature Request, Unassigned
 assignees: ''
 
 ---
